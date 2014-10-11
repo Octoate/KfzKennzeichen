@@ -1,0 +1,8 @@
+MIDlet-1: Kfz Kennzeichen,,de.octoate.kfzkennzeichen.KfzKennzeichen
+MIDlet-Jar-Size: 20002
+MIDlet-Jar-URL: KfzKennzeichen.jar
+MIDlet-Name: KfzKennzeichen
+MIDlet-Vendor: Tim "Octoate" Riemann
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
